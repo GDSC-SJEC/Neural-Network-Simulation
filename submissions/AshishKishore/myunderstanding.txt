@@ -1,0 +1,8 @@
+Nueral Networks models after the nuerons in the biological brain. 
+Each Neuron and edges have weights assinged to them and they adjust as the learning process proceeds.
+
+In the code , we have formula which does the above mentioned.
+The learning rate is the rate at which the weights adjusted to get the desired output.
+And the initials weights are given.
+
+With Epoch , corrections are made and finally we get the disired output.
