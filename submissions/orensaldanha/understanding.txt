@@ -1,0 +1,5 @@
+A neural network is based on training a set of weights and bias values on a training set.
+The neural network starts with a set of initial weights and bias which are subsequently updating during the process of training.
+A learning rate is specified to regulate the rate at which the model is able to learn.
+Training takes place over several epochs.
+The end result is a model which can predict the correct value based on the input using the trained weights and biases.
