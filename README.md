@@ -17,7 +17,7 @@ These two resources have everything you need to learn about open-source, with a 
 ## ❇️ Rules
 
 - Nothing much to change, just make your own logical dataset
-- The template code is in python, but you are free to alter the entire code to some other language of your choice (‾◡◝)
+- The [template code](/submissions/PravinKumar/neuralNet.py) is in python, but you are free to alter the entire code to some other language of your choice (‾◡◝)
 - Please make sure that you describe about the dataset you created
 
 ## ❇️ How to contribute
